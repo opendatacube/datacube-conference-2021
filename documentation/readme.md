@@ -3,7 +3,7 @@
 The goal of this print project is to improve the ODC's documentation.
 
 - Some tasks will have already been identified where we know the documentation need improvement, these will be listed in the issues already (see [A big list of small tasks](#a-big-list-of-small-tasks) below)
-- Typo’s aren’t likely to be listed as issues, but spotting them and submitting pull requests to fix them is welcome!
+- Typos aren’t likely to be listed as issues, but spotting them and submitting pull requests to fix them is welcome!
 - Even raising suggestions for ways to improve the documentation for beginners is useful, so if you find something confusing let us know! Simply open a new issue in this repository with what you found difficult and the team will get back to you.
 
 ## Intro to pull requests

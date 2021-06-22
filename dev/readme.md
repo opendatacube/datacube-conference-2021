@@ -11,6 +11,3 @@ STAC-based ODC 2.0
 ------------------
 Element84 will be prototyping a STAC-based OCD implementation. What is a good starting point for them?
 
-OWS Features
-------------
-Work with Paul to add interesting new features!

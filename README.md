@@ -6,3 +6,4 @@ A repository of ODC Conference sprint materials.
 
 * [The ODC Documentation Sprint](documentation/readme.md)
 * [Science Sprints](science/readme.md)
+* [DevOps Infrastructure](infra/README.md)

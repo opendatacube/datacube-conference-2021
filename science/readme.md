@@ -8,7 +8,25 @@ Self-guided work through weeks 3 & 4 of the training.digitalearthafrica.org cour
 
 Change Detection
 ----------------
-Teams will detect if and when land-clearing has happened within a given area, an generate mosaics of before and after the clearing event. 
+Self-guided teams will detect if and when land-clearing has happened within a given area, an generate mosaics of before and after the clearing event. 
+
+
+Web Map Visualisation Workshop
+------------------------------
+The `datacube-ows` project powers the ODC web maps at [DE Africa](http://maps.digitalearth.africa/) and [DE Australia](http://maps.dea.ga.gov.au/).
+This workshop will explain how the styling of the works, and how you can create your own style to demonstrate your own visualisation.
+There will be two workshop sessions:
+  * Session 1: Wed 23 09:30 AEST / Tue 22 11:30 UTC
+  * Session 2: Wed 23 19:00 AEST / Wed 23 09:00 UTC
+  
+**Prerequisites:**
+* Sandbox account on [DE Africa](https://sandbox.digitalearth.africa/) or [DE Australia](http://app.sandbox.dea.ga.gov.au/)
+* Familiarity with Open Data Cube
+
+More info: [Styling HOWTO](https://datacube-ows.readthedocs.io/en/latest/styling_howto.html)
+ 
+Contact: Paul Haesler | `@Paul Haesler` on [ODC Slack](https://slack.opendatacube.org/)
+
 
 Advanced: Time series forecasting of vegetation indices
 ------------------------------------------------------

@@ -11,6 +11,6 @@ Then perform some band math and show on a map.
 
 STAC-based ODC 2.0
 ------------------
-Element84 will be prototyping a STAC-based OCD implementation. What is a good starting point for them?
+Element84 will be prototyping a STAC-based ODC implementation. What is a good starting point for them?
 
 ## References?
